@@ -1,5 +1,3 @@
 # Slides-SNCT-2024
 
-Aqui está a nossa apresentação em slides
-
-<a hrref="https://drive.google.com/file/d/1-Fam1Oo5g_aAAeySmsBtQogATtHYhVbH/view">Link</a>
+Aqui está a nossa apresentação em slides da nossa Oficina feita na Semana Nacioanl de Tecnologia (SNCT) de 2024!
